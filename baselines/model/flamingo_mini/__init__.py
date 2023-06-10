@@ -1,0 +1,3 @@
+from .flamingo_processor import FlamingoTokenizer
+from .configuration_flamingo import FlamingoConfig
+from .modeling_flamingo import FlamingoModelForMultipleChoice
